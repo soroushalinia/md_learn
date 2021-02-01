@@ -41,7 +41,7 @@ Use three dashes for a line and three * for a bold line.
 
 ## Code in MD File
 
-You can use ` for code and if you want a code block you can use ```:
+You can use ` for inline code and if you want a code block you can use ```:
 
 ![CodeExample](./Pictures/Code.PNG)
 

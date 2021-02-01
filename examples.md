@@ -31,6 +31,8 @@ Normal Text
 
 <!--Code in MD File-->
 
+`println!()` Inline code.
+
 Rust:
 ```rust
 fn main() {
@@ -45,7 +47,6 @@ const print_msg() => {
     console.log("JS in md!");
 }
 ```
-You can print "JS in md!" msg using `print_msg()` function.
 
 <!--Lists-->
 
