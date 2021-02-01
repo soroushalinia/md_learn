@@ -1,3 +1,4 @@
+<!--Headings-->
 # Headings 1
 ## Headings 2
 ### Heading 3
@@ -5,9 +6,12 @@
 ##### Headings 5
 ###### Headings 6
 
+<!--Hyperlink and images-->
+
 [Google](https://google.com)
 ![Example](./Pictures/ExampleImage.PNG)
 
+<!--Texts and lines-->
 
 Normal Text
 
@@ -25,6 +29,8 @@ Normal Text
 ***
 ## Text 3
 
+<!--Code in MD File-->
+
 Rust:
 ```rust
 fn main() {
@@ -40,6 +46,8 @@ const print_msg() => {
 }
 ```
 You can print "JS in md!" msg using `print_msg()` function.
+
+<!--Lists-->
 
 ## Numbered List with sub items
 
@@ -64,6 +72,7 @@ You can print "JS in md!" msg using `print_msg()` function.
 - [x] ~~Item 1~~
 - [] Item 2
 
+<!--Table-->
 
 |Title 1  | Title 2 | Title 3
 |--       | --      |---------
