@@ -13,7 +13,7 @@ You can open this file in any code editor and see its content. If you want to pr
 
 You can use following syntax for creating a hyperlink:
 
-[Link Text](Link)
+[Link Text](Your Link)
 
 ![HyperLinkExample](./Pictures/HyperLink.PNG)
 
