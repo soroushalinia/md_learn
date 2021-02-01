@@ -1,13 +1,13 @@
 # Learn MD
-How to create beautiful md files! You can use this file as a refrence when you want to create md files. 
+How to create beautiful md Pictures! You can use this file as a refrence when you want to create md Pictures. 
 
 ## How to use this file
 
-You can open this file in any code editor and see its content. If you want to preview md files, there are plenty of extensions to do so. For VSCode you can use keyboard shortcut Ctrl+Shift+V in the editor.
+You can open this file in any code editor and see its content. If you want to preview md Pictures, there are plenty of extensions to do so. For VSCode you can use keyboard shortcut Ctrl+Shift+V in the editor.
 
 ## Headings
 
-![Headings](./Files/Headings.PNG)
+![Headings](./Pictures/Headings.PNG)
 
 ## Hyperlink and images
 
@@ -15,13 +15,13 @@ You can use following syntax for creating a hyperlink:
 
 [Link Text](Link)
 
-![HyperLinkExample](./Files/HyperLink.PNG)
+![HyperLinkExample](./Pictures/HyperLink.PNG)
 
 You Can use following syntax for using a picture:
 
 ![Image Name](Image path)
 
-![PictureExample](./Files/Picture.PNG)
+![PictureExample](./Pictures/Picture.PNG)
 
 You can use both absolute and relative paths. 
 
@@ -31,11 +31,11 @@ You can type normal text. For new line you need to have one line in between if y
 
 You also can use text between two * for italic text, ** for bold, ~~ for strikethrough and > for quotes.
 
-![TextExample](./Files/Text.PNG)
+![TextExample](./Pictures/Text.PNG)
 
 Use three dashes for a line and three * for a bold line.
 
-![LinesExample](./Files/Lines.PNG)
+![LinesExample](./Pictures/Lines.PNG)
 
 **You can also use \ as escape character for using characters that markdown use for formatting.**
 
@@ -43,7 +43,7 @@ Use three dashes for a line and three * for a bold line.
 
 You can use ` for code and if you want a code block you can use ```:
 
-![CodeExample](./Files/Code.PNG)
+![CodeExample](./Pictures/Code.PNG)
 
 ## Lists
 
@@ -51,10 +51,10 @@ For creating list you can - or * for unordered list and numbered list with numbe
 
 For a Task List Use - with [] afterwards and use a x between [x] for checking it .
 
-![ListExample](./Files/Lists.PNG)
+![ListExample](./Pictures/Lists.PNG)
 
 ## Table
 You can have tables in your markdown as well. Using tables in markdown is shown below:
 
-![TablesExample](./Files/Tables.PNG)
+![TablesExample](./Pictures/Tables.PNG)
  
